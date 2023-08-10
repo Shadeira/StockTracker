@@ -11,8 +11,6 @@ Each stock has metadata associated with it.
  Your goal is to output that data from an external file and render it on the web page in a table format, as shown below.
 
 
- Open your terminal and create a react a called stocks. 
-
 
 # Add JSON Data to a File
 
